@@ -28,4 +28,4 @@ I'm a passionate developer with a keen interest in learning and exploring new te
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/zakariae-bakkari-86a618307/)
-- [Personal Website/Blog]([https://yourwebsite.com](https://zakariaebakkari.vercel.app/))
+- [Personal Website/Blog](https://zakariaebakkari.vercel.app/)
