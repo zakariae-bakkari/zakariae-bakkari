@@ -13,9 +13,9 @@ I'm a passionate developer with a keen interest in learning and exploring new te
 ## Skills
 
 - **Languages:** JavaScript, PHP, Java, C]
-- **Frameworks:**  React, Next, Laravel, TypeScript]
+- **Frameworks:**  React, Next, Nest, Laravel, TypeScript]
 - **Tools:**  Git, GitHub, Docker
-- **Databases:** MySQL, Oracle database
+- **Databases:** MySQL, Oracle database, PostgreSQL
 
 ## GitHub Stats
 
