@@ -9,6 +9,12 @@ I'm a passionate developer with a keen interest in learning and exploring new te
 - 🌱 I’m currently learning **react JS/next JS**
 - 📫 How to reach me: **zakariabakkari2006@gmail.com**
 - ⚡ Fun fact: **😀**
+  
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/zakariae-bakkari-86a618307/)
+- [Personal Website/Blog](https://zakariaebakkari.vercel.app/)
+
 
 ## Skills
 
@@ -24,8 +30,3 @@ I'm a passionate developer with a keen interest in learning and exploring new te
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zakariae-bakkari&layout=compact&theme=radical)
-
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/zakariae-bakkari-86a618307/)
-- [Personal Website/Blog](https://zakariaebakkari.vercel.app/)
