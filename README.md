@@ -6,9 +6,7 @@
 
 I'm a passionate developer with a keen interest in learning and exploring new technologies. I love solving complex problems and building efficient solutions. 
 
-- 🌱 I’m currently learning **react JS/next JS**
 - 📫 How to reach me: **zakariabakkari2006@gmail.com**
-- ⚡ Fun fact: **😀**
   
 ## Connect with Me
 
@@ -18,7 +16,7 @@ I'm a passionate developer with a keen interest in learning and exploring new te
 
 ## Skills
 
-- **Languages:** JavaScript, PHP, Java, C
+- **Languages:** JavaScript, PHP, Java, C, C++
 - **Frameworks:**  React, Next, Nest, Laravel, TypeScript
 - **Tools:**  Git, GitHub, Docker
 - **Databases:** MySQL, Oracle database, PostgreSQL
