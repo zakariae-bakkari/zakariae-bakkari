@@ -1,6 +1,7 @@
 # Hi there, I'm Zakariae Bakkari 👋
-Welcome to my GitHub profile! I am a passionate Software Engineering student and aspiring Software Architect, always curious about new technologies and innovative solutions. My journey is driven by a love for coding, a commitment to learning, and the excitement of connecting with talented minds from around the world.
 ![Profile Views](https://komarev.com/ghpvc/?username=zakariae-bakkari&color=blue) 
+Welcome to my GitHub profile! I am a passionate Software Engineering student and aspiring Software Architect, always curious about new technologies and innovative solutions. My journey is driven by a love for coding, a commitment to learning, and the excitement of connecting with talented minds from around the world.
+
 
 ## 👨‍💻 About Me
 
