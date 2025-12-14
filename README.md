@@ -46,6 +46,10 @@ Welcome to my GitHub profile! I am a passionate **Software Engineering student**
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)]()
 [![shadcn/ui](https://img.shields.io/badge/shadcn-ui-000000?style=for-the-badge&logo=shadcn&logoColor=white)]()
 
+### Data Formats
+[![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)]()
+[![XML](https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logo=xml&logoColor=white)]()
+
 ### Architecture & Modeling
 [![UML](https://img.shields.io/badge/UML-007ACC?style=for-the-badge&logo=uml&logoColor=white)]()
 [![PowerAMC](https://img.shields.io/badge/PowerAMC-FF6600?style=for-the-badge&logoColor=white)]()
