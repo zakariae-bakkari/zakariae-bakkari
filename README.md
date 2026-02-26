@@ -1,4 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=zakariae-bakkari&color=blue)
 
 <h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Bakkari zakariae</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
