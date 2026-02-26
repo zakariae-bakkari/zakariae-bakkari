@@ -1,25 +1,35 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=zakariae-bakkari&color=blue)
 
-# Hi there, I'm Zakariae Bakkari 👋
+<h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Bakkari zakariae</a> <img
+src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
-Welcome to my GitHub profile! I am a passionate **Software Engineering student** and aspiring **Software Architect**, driven by curiosity and a love for coding. I enjoy exploring new technologies, solving problems, and connecting with talented minds worldwide.  
+<div align="center">
+ <p>
+ I am a passionate <b>Software Engineering student</b> and aspiring <b>Software Architect</b>, driven by curiosity and a love for coding. I enjoy exploring new technologies, solving problems, and connecting with talented minds worldwide.   </p>
+ <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/dex919k-65059397-8304-443b-a63b-1efffd329c4b.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyY2JlOGE0LWY1NWMtNGI0MC04NWJiLWQ4ZTE0MDVlN2I4NFwvZGV4OTE5ay02NTA1OTM5Ny04MzA0LTQ0M2ItYTYzYi0xZWZmZmQzMjljNGIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Bz40hW1TYNbqHbpY198IY_SKH__kx2P6bY16YDVx97o" alt="MAY YOU ENJOY IT" style="width:100%;">
 
----
+<p align="center">
+<p align="center">
+ 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+![Profile Views](https://komarev.com/ghpvc/?username=zakariae-bakkari&color=blue)
 
-##  About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-zakariae--bakkari-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bakkari-zakariae)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-black)](https://your-portfolio-link.com)
+
+</p>
+<div align="center">
+ <p>
+<h1 align="center">About Me</h1>
+</p>
+</div>
 
 - **Software Engineering Student** | Full Stack Developer  
 - **Decision Maker & Problem Solver**  
 - **Future Software Architect** (interested in software design & architecture)  
 - **Tech Enthusiast:** AI, automation, developer tools, emerging technologies  
 
----
-
-##  Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakariae-bakkari-86a618307/) [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zakariaebakkari.vercel.app/)  
-
----
 
 ## Skills & Tools
 
@@ -82,13 +92,10 @@ Welcome to my GitHub profile! I am a passionate **Software Engineering student**
 
 </div>
 
----
-
 ## Certifications
 - Java, SQL, C++ (see LinkedIn for details)  
 - Other relevant tech certifications  
 
----
 
 ##  Interests & Fun Facts
 - I love coding, playing football, and meeting new people  
