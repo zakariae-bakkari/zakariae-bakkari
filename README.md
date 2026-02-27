@@ -10,12 +10,11 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <p align="center">
 <p align="center">
  
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ![Profile Views](https://komarev.com/ghpvc/?username=zakariae-bakkari&color=blue)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-zakariae--bakkari-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bakkari-zakariae)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-black)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-black)](https://zakariaebakkari.vercel.app)
 
 </p>
 <div align="center">
