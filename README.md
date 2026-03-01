@@ -60,7 +60,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 ### Architecture & Modeling
 [![UML](https://img.shields.io/badge/UML-007ACC?style=for-the-badge&logo=uml&logoColor=white)]()
-[![PowerAMC](https://img.shields.io/badge/PowerAMC-FF6600?style=for-the-badge&logoColor=white)]()
+[![Merise](https://img.shields.io/badge/Merise-FF6600?style=for-the-badge&logoColor=white)]()
 
 ### Tools
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
