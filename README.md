@@ -67,6 +67,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
 [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)]()
+[![pnpm](https://img.shields.io/badge/pnpm-CB3837?style=for-the-badge&logo=pnpm&logoColor=white)]()
 
 ### Databases
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
