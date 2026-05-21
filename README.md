@@ -75,30 +75,5 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 ### BaaS
 [![Appwrite](https://img.shields.io/badge/Appwrite-FF2D20?style=for-the-badge&logo=appwrite&logoColor=white)]()
-
----
-
-## GitHub Statistics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zakariae-bakkari&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=zakariae-bakkari&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zakariae-bakkari&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
 </div>
 
-## Certifications
-- Java, SQL, C++ (see LinkedIn for details)  
-- Other relevant tech certifications  
-
-
-##  Interests & Fun Facts
-- I love coding, playing football, and meeting new people  
-- Fascinated by different mindsets and exchanging ideas  
-
----
-
-> _Let’s collaborate, innovate, and grow together! Explore my projects or reach out for opportunities._
