@@ -25,7 +25,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 - **Software Engineering Student** | Full Stack Developer  
 - **Decision Maker & Problem Solver**  
-- **Future Software Architect** (interested in software design & architecture)  
 - **Tech Enthusiast:** AI, automation, developer tools, emerging technologies  
 
 
