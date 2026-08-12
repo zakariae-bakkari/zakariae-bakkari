@@ -1,78 +1,229 @@
-
-<h1 align="center">Hi there, I'm <a href="https://zakariaebakkari.vercel.app" target="_blank">Bakkari zakariae</a> <img
-src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
-
-<div align="center">
- <p>
- I am a passionate <b>Software Engineering student</b> driven by curiosity and a love for coding. I enjoy exploring new technologies, solving problems, and connecting with talented minds worldwide.   </p>
- <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/dex919k-65059397-8304-443b-a63b-1efffd329c4b.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyY2JlOGE0LWY1NWMtNGI0MC04NWJiLWQ4ZTE0MDVlN2I4NFwvZGV4OTE5ay02NTA1OTM5Ny04MzA0LTQ0M2ItYTYzYi0xZWZmZmQzMjljNGIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Bz40hW1TYNbqHbpY198IY_SKH__kx2P6bY16YDVx97o" alt="MAY YOU ENJOY IT" style="width:100%;">
+<h1 align="center">Hi there, I'm <a href="https://zakariaebakkari.vercel.app" target="_blank">Bakkari Zakariae</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 <p align="center">
-<p align="center">
- 
-![Profile Views](https://komarev.com/ghpvc/?username=zakariae-bakkari&color=blue)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-zakariae--bakkari-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bakkari-zakariae)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-black)](https://zakariaebakkari.vercel.app)
-
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/dex919k-65059397-8304-443b-a63b-1efffd329c4b.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyY2JlOGE0LWY1NWMtNGI0MC04NWJiLWQ4ZTE0MDVlN2I4NFwvZGV4OTE5ay02NTA1OTM5Ny04MzA0LTQ0M2ItYTYzYi0xZWZmZmQzMjljNGIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Bz40hW1TYNbqHbpY198IY_SKH__kx2P6bY16YDVx97o" alt="MAY YOU ENJOY IT" style="width:100%;">
 </p>
-<div align="center">
- <p>
+
+<p align="center">
+  I am a passionate <b>Software Engineering student</b> driven by curiosity and a love for coding. I enjoy exploring new technologies, solving problems, and connecting with talented minds worldwide.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zakariae-bakkari&color=blue" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bakkari-zakariae" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-zakariae--bakkari-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://zakariaebakkari.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Website-black" alt="Portfolio" />
+  </a>
+</p>
+
+---
+
 <h1 align="center">About Me</h1>
+
+<p align="center">
+  <b>Software Engineering Student</b> | Full Stack Developer<br>
+  <b>Decision Maker & Problem Solver</b><br>
+  <b>Tech Enthusiast:</b> AI, automation, developer tools, emerging technologies
 </p>
-</div>
 
-- **Software Engineering Student** | Full Stack Developer  
-- **Decision Maker & Problem Solver**  
-- **Tech Enthusiast:** AI, automation, developer tools, emerging technologies  
+---
+
+<h1 align="center"> Skills & Tools</h1>
+
+<h2 align="center"> Programming Languages</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,php,java,c,cpp,bash" />
+</p>
+
+<p align="center">
+JavaScript  ·  PHP  ·  Java  · C  ·  C++  ·  Shell Scripting
+</p>
+
+---
+
+<h2 align="center"> Frameworks & Libraries</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,laravel,ts,electron,threejs" />
+</p>
+
+<p align="center">
+React · Next.js · NestJS · Laravel · TypeScript · Electron · Three.js
+</p>
+
+---
+
+<h2 align="center"> Markup & Styling</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind" />
+</p>
+
+<p align="center">
+HTML5 · CSS3 · Tailwind CSS · shadcn/ui
+</p>
+
+---
+
+<h2 align="center"> Databases</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase" />
+</p>
+
+<p align="center">
+MySQL · PostgreSQL · MongoDB · Redis · Firebase · Oracle
+</p>
+
+---
+
+<h2 align="center"> DevOps & Containerization</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,linux" />
+</p>
+
+<p align="center">
+Docker ·  · GitHub Actions · Linux
+</p>
+
+---
+
+<h2 align="center">Architecture & Modeling</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=uml" />
+</p>
+
+<p align="center">
+UML · Merise
+</p>
+
+---
+
+<h2 align="center"> Tools</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,npm,pnpm,vscode" />
+</p>
+
+<p align="center">
+Git · GitHub · npm · pnpm · VS Code
+</p>
+
+---
+---
+---
+
+<h1 align="center">DevOps Journey</h1>
+
+<p align="center">
+  <strong>Learning • Building • Automating • Deploying • Scaling</strong>
+</p>
 
 
-## Skills & Tools
 
-### Programming Languages
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)]()
-[![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)]()
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
-[![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
+<h2 align="center">DevOps Roadmap</h2>
 
-### Frameworks & Libraries
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)]()
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)]()
-[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)]()
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)]()
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)]()
-[![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)]()
-[![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)]()
+<table align="center">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Stage</th>
+      <th>Main Technologies</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">01</td>
+      <td>Foundation</td>
+      <td>Linux · Networking · Git · GitHub</td>
+      <td align="center">Completed</td>
+    </tr>
+    <tr>
+      <td align="center">02</td>
+      <td>CI/CD</td>
+      <td>GitHub Actions · Jenkins</td>
+      <td align="center">In Progress</td>
+    </tr>
+    <tr>
+      <td align="center">03</td>
+      <td>Containerization</td>
+      <td>Docker · Dockerfile</td>
+      <td align="center">Completed</td>
+    </tr>
+    <tr>
+      <td align="center">04</td>
+      <td>Docker Advanced</td>
+      <td>Compose · Networks · Volumes · Security</td>
+      <td align="center">In Progress</td>
+    </tr>
+    <tr>
+      <td align="center">05</td>
+      <td>Orchestration</td>
+      <td>Kubernetes · Helm</td>
+      <td align="center">In Progress</td>
+    </tr>
+    <tr>
+      <td align="center">06</td>
+      <td>Architecture</td>
+      <td>Microservices · API Gateway</td>
+      <td align="center">In Progress</td>
+    </tr>
+    <tr>
+      <td align="center">07</td>
+      <td>Observability</td>
+      <td>Monitoring · Logging · Metrics</td>
+      <td align="center">In Progress</td>
+    </tr>
+    <tr>
+      <td align="center">08</td>
+      <td>Infrastructure as Code</td>
+      <td>Terraform · Ansible</td>
+      <td align="center">Planned</td>
+    </tr>
+    <tr>
+      <td align="center">09</td>
+      <td>GitOps</td>
+      <td>ArgoCD · Kubernetes</td>
+      <td align="center">Planned</td>
+    </tr>
+    <tr>
+      <td align="center">10</td>
+      <td>Service Mesh</td>
+      <td>Istio</td>
+      <td align="center">Planned</td>
+    </tr>
+    <tr>
+      <td align="center">11</td>
+      <td>Cloud</td>
+      <td>AWS · GCP</td>
+      <td align="center">Planned</td>
+    </tr>
+    <tr>
+      <td align="center">12</td>
+      <td>Cloud Native</td>
+      <td>Cloud Architecture · Managed Kubernetes</td>
+      <td align="center">Planned</td>
+    </tr>
+  </tbody>
+</table>
 
-### Markup & Styling
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)]()
-[![shadcn/ui](https://img.shields.io/badge/shadcn-ui-000000?style=for-the-badge&logo=shadcn&logoColor=white)]()
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,kubernetes,githubactions,jenkins,terraform,aws,gcp" />
+</p>
 
-### Data Formats
-[![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)]()
-[![XML](https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logo=xml&logoColor=white)]()
+---
 
-### Architecture & Modeling
-[![UML](https://img.shields.io/badge/UML-007ACC?style=for-the-badge&logo=uml&logoColor=white)]()
-[![Merise](https://img.shields.io/badge/Merise-FF6600?style=for-the-badge&logoColor=white)]()
 
-### Tools
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
-[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)]()
-[![pnpm](https://img.shields.io/badge/pnpm-CB3837?style=for-the-badge&logo=pnpm&logoColor=white)]()
 
-### Databases
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
-[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)]()
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)]()
-
-### BaaS
-[![Appwrite](https://img.shields.io/badge/Appwrite-FF2D20?style=for-the-badge&logo=appwrite&logoColor=white)]()
-</div>
+<p align="center">
+  <strong>Continuous Learning • Continuous Improvement</strong>
+</p>
