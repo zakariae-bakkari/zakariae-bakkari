@@ -223,7 +223,3 @@ Git · GitHub · npm · pnpm · VS Code
 ---
 
 
-
-<p align="center">
-  <strong>Continuous Learning • Continuous Improvement</strong>
-</p>
